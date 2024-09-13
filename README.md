@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou Victor</h1>
+<h1 align="center">Olá, sou Victor</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victor-gomes1&label=Profile%20views&color=0e75b6&style=flat" alt="victor-gomes1" /> </p>
 
 - 🔭 Atualmente estou estudando **análise e desenvolvimento de sistemas**
